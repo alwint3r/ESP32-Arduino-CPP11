@@ -1,4 +1,4 @@
-# C++ with ESP32
+# C++11 with ESP32
 
 Using C++11 with ESP32 and Arduino for ESP32.
 
